@@ -1,0 +1,9 @@
+# Only the public page is published.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/media/
+/media/*
+!/media/braids-in-paradise.mp4
+!/media/braids-poster.jpg
